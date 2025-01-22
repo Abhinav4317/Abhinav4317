@@ -1,7 +1,7 @@
 ## Hi there!👋I'm Abhinav,a pre-final year student from IIIT Bhopal.
 
 # 💫 About Me:
-🔭 Currently working on building efficient web solutions on real-life problems.<br>⚡ Proficient in full-stack web development(MERN and Vercel stacks) as well as Algorithms and Data Structures.<br>🌱 I’m currently exploring the fascinating world of Blockchain(Ethereum,in particular) and Post-Quantum Cryptography.<br>💬 Hit me up at:-<br>
+🔭 Currently working on building efficient web solutions on real-life problems.<br>⚡ Proficient in full-stack web development(MERN and Vercel stacks) as well as Algorithms and Data Structures.<br>🌱 I’m currently exploring the fascinating world of Blockchain(Ethereum,in particular) and Post-Quantum Cryptography.<br>
 
 
 ## 🌐 Socials:
